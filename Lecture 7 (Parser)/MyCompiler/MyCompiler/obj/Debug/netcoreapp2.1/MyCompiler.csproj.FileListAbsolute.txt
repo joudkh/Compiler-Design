@@ -1,0 +1,33 @@
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.deps.json
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.json
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.dll
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.pdb
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.dll
+C:\Users\ASUS\Desktop\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.pdb
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.deps.json
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.json
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.dev.json
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.dll
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.pdb
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csprojAssemblyReference.cache
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfoInputs.cache
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfo.cs
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.dll
+D:\JoudKh\Teaching\2018 - 2019 - 2\CD\Lab\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.pdb
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.deps.json
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.dll
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\bin\Debug\netcoreapp2.1\MyCompiler.pdb
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.dll
+C:\Users\ASUS\Desktop\Lecture 4 (Lexical)\MyCompiler\MyCompiler\obj\Debug\netcoreapp2.1\MyCompiler.pdb

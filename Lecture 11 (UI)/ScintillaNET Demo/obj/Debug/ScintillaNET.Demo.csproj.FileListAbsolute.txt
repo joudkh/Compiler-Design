@@ -1,0 +1,22 @@
+C:\Users\IT\Desktop\Compiler\ScintillaNET.Demo-master\ScintillaNET.Demo\obj\Debug\ScintillaNET.Demo.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Compiler\ScintillaNET.Demo-master\ScintillaNET.Demo\obj\Debug\ScintillaNET.Demo.MainForm.resources
+C:\Users\IT\Desktop\Compiler\ScintillaNET.Demo-master\ScintillaNET.Demo\obj\Debug\ScintillaNET.Demo.Properties.Resources.resources
+C:\Users\IT\Desktop\Compiler\ScintillaNET.Demo-master\ScintillaNET.Demo\obj\Debug\ScintillaNET.Demo.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.MainForm.resources
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.Properties.Resources.resources
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\ScintillaNET Demo\bin\Debug\ScintillaNET.Demo.exe
+C:\Users\IT\Desktop\ScintillaNET Demo\bin\Debug\ScintillaNET.Demo.pdb
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.exe
+C:\Users\IT\Desktop\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\bin\Debug\ScintillaNET.Demo.exe
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\bin\Debug\ScintillaNET.Demo.pdb
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csprojAssemblyReference.cache
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.MainForm.resources
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.Properties.Resources.resources
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csproj.GenerateResource.cache
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.csproj.CopyComplete
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.exe
+D:\JoudKh\Teaching\2017 - 2018 - 2\CD\Lab\Session 8\ScintillaNET Demo\obj\Debug\ScintillaNET.Demo.pdb
